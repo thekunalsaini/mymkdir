@@ -27,7 +27,7 @@ try {
     
 }
 else{
-
+//try
 for(let i=0; i<n; i++)
 {
     fs.mkdirSync(`${name}-${i}`);
