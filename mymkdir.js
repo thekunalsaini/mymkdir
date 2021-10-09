@@ -2,7 +2,6 @@
 let fs = require("fs");
 
 // fs.writeFileSync(path,content)
-
 // fs.mkdirSync(path) //create folder
 // fs.rmdirSync(path) //delete
 //console.log(process.argv);
